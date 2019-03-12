@@ -66,10 +66,10 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: /img/favicon.png
+favicon: /assets/img/favicon.png
 
 #你的头像url
-avatar: /img/bear-and-the-maiden-fair.jpeg
+avatar: /assets/img/bear-and-the-maiden-fair.jpeg
 
 #是否开启分享
 share_jia: true
