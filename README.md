@@ -212,4 +212,7 @@ friends:
 aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
 ```
 
-
+---
+2019-03-12 22:21:59 by Unibrighter:
+- Add the following extended icon (some of them has been integrated into the original repo already)
+- ![extended icons](https://blog.zscself.com/posts/70677220/6.png)
